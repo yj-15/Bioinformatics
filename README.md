@@ -10,3 +10,5 @@
    - Translation: mRNA가 리보솜이라는 세포기관에 의해 읽혀지고 이를 통해 아미노산이 연결되어 단백질이 합성
  
  ![The central dogma of molecular biology, with DNA being transcribed into RNA, and RNA being translated into a protein.](https://learngenomics.dev/assets/images/1.2-Central-Dogma-51be4168fdbcda0ea8a87929ef0d9846.jpg)
+
+
